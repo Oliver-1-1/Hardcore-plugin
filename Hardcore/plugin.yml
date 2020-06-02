@@ -1,0 +1,8 @@
+name: HardcorePlugin
+version: 1.0
+main: me.Ocrytheman.Hardcore.Main
+description: Hardcore!
+
+commands:
+    hardcore:
+        usage: /<command>
